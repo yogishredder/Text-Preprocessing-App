@@ -1,0 +1,4 @@
+# Path related
+dataset_path: data/raw/data.csv
+kamus_path: data/raw/new_kamusalay.csv
+db_path: data/processed/cleandata.db
